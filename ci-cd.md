@@ -1,21 +1,15 @@
 # CI CD Jenkins -> AWS
 
-Give a brief overview of the project.
 
 ## Demo
 
-Research how you can create Gifs from screen recordings, demo the following:
-
 - CI
+-The video shows the changes made in both branches and the build triggered in jenkins for ci project and cd project.
 
 ![cicd](https://user-images.githubusercontent.com/117640150/214650900-d5907bc4-cbbb-4999-8793-d91b04e9ba5f.gif)
 
 - CD
-  - Make a change to the project on your feature branch -> push changes to repo
-  - Show pipeline running in Jenkins -> Show ci pipeline triggers build pipeline
-  - Show updated instance
 
-_Feel free to add more to the points above_
 
 ---
 
@@ -43,5 +37,7 @@ _Feel free to add more to the points above_
 ### How did you get the CI project to trigger the CD build?
 - We made a new cd project in jenkins and added it in post-build actions on our ci project.
 - Build other projects in ci project to trigger only if the build is stable.
+
+###The final output of the landing page after changes
 
 ---![ONLY THE PAGE](https://user-images.githubusercontent.com/117640150/214648462-0faa293c-271c-4e57-a904-1df293c3a50f.gif)
