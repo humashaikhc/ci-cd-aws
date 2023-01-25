@@ -7,9 +7,8 @@ Give a brief overview of the project.
 Research how you can create Gifs from screen recordings, demo the following:
 
 - CI
-  - Make a change to the project on your feature branch -> push changes to repo
-  ![](Changed hacked in html.gif)
-  - Show pipeline running in Jenkins -> Show main branch has been updated
+
+![cicd](https://user-images.githubusercontent.com/117640150/214650900-d5907bc4-cbbb-4999-8793-d91b04e9ba5f.gif)
 
 - CD
   - Make a change to the project on your feature branch -> push changes to repo
