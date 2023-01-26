@@ -47,6 +47,6 @@
 - We made a new cd project in jenkins and added it in post-build actions on our ci project.
 - Build other projects in ci project to trigger only if the build is stable.
 
-###The final output of the landing page after changes
+### The final output of the landing page after changes
 
 ---![ONLY THE PAGE](https://user-images.githubusercontent.com/117640150/214648462-0faa293c-271c-4e57-a904-1df293c3a50f.gif)
