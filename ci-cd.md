@@ -4,14 +4,21 @@
 ## Demo
 
 - CI
--The video shows the changes made in both branches and the build triggered in jenkins for ci project and cd project.
+
+-The gif below depicts the changes made in a readme.md file and the changes pushed to feature-branch.
+-The CI in Jenkins was triggered that run all the tests and had a successful build.
+
+![readme-opt](https://user-images.githubusercontent.com/117640150/214801706-cb69821d-d6d3-44a2-8020-397ee08ce9c4.gif)
+
+-The changes made in readme.md was added in the main branch along with the feature-branch. The gif shows both the CI and CD build successfull in Jenkins.
 
 ![cicd](https://user-images.githubusercontent.com/117640150/214650900-d5907bc4-cbbb-4999-8793-d91b04e9ba5f.gif)
 
 - CD
-![aws-opt](https://user-images.githubusercontent.com/117640150/214801632-c95eb0ab-e9b1-4d03-ba81-684316f6772b.gif)
+-The gif shows changes made in index.html to display on the page. 
+-After the push the build in Jenkins was triggered along with showing the changes on the page at the end.
 
-![readme-opt](https://user-images.githubusercontent.com/117640150/214801706-cb69821d-d6d3-44a2-8020-397ee08ce9c4.gif)
+![aws-opt](https://user-images.githubusercontent.com/117640150/214801632-c95eb0ab-e9b1-4d03-ba81-684316f6772b.gif)
 
 ---
 
