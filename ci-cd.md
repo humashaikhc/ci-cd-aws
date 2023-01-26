@@ -9,7 +9,9 @@
 ![cicd](https://user-images.githubusercontent.com/117640150/214650900-d5907bc4-cbbb-4999-8793-d91b04e9ba5f.gif)
 
 - CD
+![aws-opt](https://user-images.githubusercontent.com/117640150/214801632-c95eb0ab-e9b1-4d03-ba81-684316f6772b.gif)
 
+![readme-opt](https://user-images.githubusercontent.com/117640150/214801706-cb69821d-d6d3-44a2-8020-397ee08ce9c4.gif)
 
 ---
 
